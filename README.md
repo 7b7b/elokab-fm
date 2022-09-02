@@ -1,3 +1,10 @@
+# TODO
+
+- Change to cmake [High]
+- Better structure [High]
+- Remove translations [Med]
+- Remove optional dependencies [Med]
+
 # elokab-files-manager
 A lightweight  file manager for Linux desktops built in Qt.
 
